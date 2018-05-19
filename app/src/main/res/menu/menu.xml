@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_second_fragment"
+        android:title="@string/to_second_fragment"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_first_tab"
+        android:title="@string/_1st_tab"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_second_tab"
+        android:title="@string/_2nd_tab"
+        app:showAsAction="never" />
+
+</menu>

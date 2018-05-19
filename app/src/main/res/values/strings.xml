@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVCStructure</string>
+    <string name="i_am_boat">I am Boat</string>
+    <string name="to_second_fragment">To Second Fragment</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="ok">OK</string>
+    <string name="_1st_tab">1st Tab</string>
+    <string name="_2nd_tab">2nd Tab</string>
+</resources>
